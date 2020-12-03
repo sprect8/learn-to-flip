@@ -1,0 +1,650 @@
+{
+    "courseName": "Scrum.org - Scrum Guide",
+    "courseDescription": "Scrum Guide (2020) Content",
+    "links": [
+        {
+            "name": "Scrum Reference",
+            "link": "https://www.scrumguides.org/scrum-guide.html"
+        }
+    ],
+    "content": [
+        {
+            "id": "1",
+            "front": {
+                "title": "What is Scrum",
+                "content": "What is the general definition of Scrum"
+            },
+            "back": {
+                "title": "Scrum is a lightweight framework",
+                "content": "It helps people, teams and organisations generate value through adaptive solutions for complex problems\r"
+            }
+        },
+        {
+            "id": "2",
+            "front": {
+                "title": "Scrum in a nutshell",
+                "content": "What environment is a scrum master expected to foster?"
+            },
+            "back": {
+                "title": "An adaptive environment",
+                "content": "Product Owner orders the work in a product backlog; Scrum team turns the selection of work into an Increment value during a sprint, Scrum team and stakeholders inspect the results and adjust for next sprint\r"
+            }
+        },
+        {
+            "id": "3",
+            "front": {
+                "title": "What is scrum built upon?",
+                "content": ""
+            },
+            "back": {
+                "title": "Collective Intelligence of the people",
+                "content": "Scrum is an adaptive, iterative framework that builds upon the collective intelligence of the people using it. It does not provide detailed instructions, rather it provides users with a guide for relationships and interactions\r"
+            }
+        },
+        {
+            "id": "4",
+            "front": {
+                "title": "What is Scrum founded on?",
+                "content": "What is the key foundation to which Scrum is founded"
+            },
+            "back": {
+                "title": "Empiricism and Lean Thinking",
+                "content": "Empiricism asserts that knowledge comes from experience, and decisions are made based on what is observed. Lean thinking focuses on reducing waste and only focusing on the essentials\r"
+            }
+        },
+        {
+            "id": "5",
+            "front": {
+                "title": "What techniques does Scrum employ?",
+                "content": "How does scrum optimise predictability and control risk?"
+            },
+            "back": {
+                "title": "Use Iterative, incremental approach",
+                "content": "Scrum engages groups of people who collectively have all the skills and expertise to do the work; or can acquire such skills as needed\r"
+            }
+        },
+        {
+            "id": "6",
+            "front": {
+                "title": "Formal Events in Scrum",
+                "content": "How many formal events are in scrum?"
+            },
+            "back": {
+                "title": "There are 5 events in Scrum",
+                "content": "The Sprint itself, Sprint planning, Daily Scrum, Sprint Review and Sprint Retrospective. These are the only 5 events that exist for scrum\r"
+            }
+        },
+        {
+            "id": "7",
+            "front": {
+                "title": "Scrum Pillars",
+                "content": "What are the Scrum pillars?"
+            },
+            "back": {
+                "title": "There are 3 pillars to Scrum",
+                "content": "Transparency - visible to everyone involved, Inspection - inspect and review to ensure progress is towards agreed goals, and Adaption - when there is deviation from the agreed goals\r"
+            }
+        },
+        {
+            "id": "8",
+            "front": {
+                "title": "Transparency",
+                "content": "What is Transparency?"
+            },
+            "back": {
+                "title": "Visible to everyone involved",
+                "content": "Emergent process and work must be visible to those performing in and those receiving it. Important decisions are based on the perceived state of the Three Formal Artifacts. Without transparency, the decisions made might diminish in value and increase risk of bad results\r"
+            }
+        },
+        {
+            "id": "9",
+            "front": {
+                "title": "Inspection",
+                "content": "What is Inspection?"
+            },
+            "back": {
+                "title": "Inspect and Review Progress",
+                "content": "Transparency enables Inspection. Purpose is to review the progress and ensure its heading towards agreed goals. Inspect frequently and diligently to detect potential undesirable variances/problems. Scrum provides cadence in the form of 5 events\r"
+            }
+        },
+        {
+            "id": "10",
+            "front": {
+                "title": "Adaption",
+                "content": "What is Adaption?"
+            },
+            "back": {
+                "title": "Change in plan when deviation are detected",
+                "content": "Adapt if inspection finds issues. If process deviates outside acceptable limits resulting product may not meet established goals. Adjustments to the plan must be made as soon as possible to minimise further deviation. Adaption works only if teams are empowered and self-managing.\r"
+            }
+        },
+        {
+            "id": "11",
+            "front": {
+                "title": "Scrum Values",
+                "content": "What are the Scrum values"
+            },
+            "back": {
+                "title": "There are 5 (FORCC)",
+                "content": "Focus, Openness, Respect, Courage, and Commitment. COMMIT to achieve its goals and support each other. FOCUS is to make the best possible progress towards goals. OPEN to discuss work and challenges. RESPECT each other to be capable. COURAGE to do the right thing\r"
+            }
+        },
+        {
+            "id": "12",
+            "front": {
+                "title": "Purpose of Scrum Values",
+                "content": "Why are Scrum values important?"
+            },
+            "back": {
+                "title": "Give Direction to Scrum Team",
+                "content": "The values give direction to the team regarding their WORK, ACTIONS, and BEHAVIOURS. Decisions made, steps taken, how scrum is used should reinforce, not diminish values. Applied when working with scrum EVENTS and ARTIFACTS. Combined with Pillars to build trust\r"
+            }
+        },
+        {
+            "id": "13",
+            "front": {
+                "title": "Scrum Team",
+                "content": "Who are part of the Scrum Team"
+            },
+            "back": {
+                "title": "Dev team, Product Owner, Scrum Master",
+                "content": "1 PO, 1 SM, and the Development Team. No sub teams or hierarchies. Cohesive unit of professionals focused on the PRODUCT GOAL. Cross-functional (have all the skills necessary to create value for each sprint). Self-managing (decide what when and how).\r"
+            }
+        },
+        {
+            "id": "14",
+            "front": {
+                "title": "Scrum Team Size",
+                "content": "How big should a scrum team be?"
+            },
+            "back": {
+                "title": "No more than 11 people",
+                "content": "Small teams are nimble and large enough to complete significant work. 3-9 Devs, 1 SM, 1 PO. This is because of communication efficiencies. Too large, reorg into multiple scrum team focused on the same product, with same Product Goal, Backlog and PO. \r"
+            }
+        },
+        {
+            "id": "15",
+            "front": {
+                "title": "Scrum Team Responsibilities",
+                "content": "What are the responsibilities of the Scrum team?"
+            },
+            "back": {
+                "title": "All product related activities",
+                "content": "Stakeholder collaboration, verification, maintenance, ops, experiment, R&D, etc. Empowered by the organisation to manage their own work. Working in sprints at a SUSTAINABLE pace that improves focus and consistency\r"
+            }
+        },
+        {
+            "id": "16",
+            "front": {
+                "title": "Scrum Accountability",
+                "content": "What is the Scrum team accountable for?"
+            },
+            "back": {
+                "title": "Creating valuable useful increment",
+                "content": "Scrum defines three accountabilities and three roles; the development team, the product owner, and the scrum master\r"
+            }
+        },
+        {
+            "id": "17",
+            "front": {
+                "title": "Development Team",
+                "content": "What is the Dev team responsible for?"
+            },
+            "back": {
+                "title": "Creating a useable increment each sprint",
+                "content": "Creating the Sprint Backlog, Adhering to Definition of Done, Adapting the plan toward the Sprint goal, holding each other ACCOUNTABLE as professionals. The goal of the sprint is to create a useable, quality increment that can be released to production\r"
+            }
+        },
+        {
+            "id": "18",
+            "front": {
+                "title": "Product Owner",
+                "content": "What is the Product Owner responsible for?"
+            },
+            "back": {
+                "title": "Maximising value produced by the Scrum Team",
+                "content": "Develop and communicate CLEARLY: product goal, product backlog items (PBI). Ordering PBI, ensuring Product backlog is transparent, visible, understood. PO may delegate, but ultimately accountable. PO must be one person who represents needs of the stakeholder \r"
+            }
+        },
+        {
+            "id": "19",
+            "front": {
+                "title": "Purpose of the Product Backlog",
+                "content": "What is the purpose of the Product Backlog"
+            },
+            "back": {
+                "title": "Represent the needs of the stakeholders",
+                "content": "The Product Backlog, its content and ordering represent the decisions of the Product owner. Order defines what order the items will be created (through the sprint and delivered increment). The whole backlog represent the needs of the stakeholders \r"
+            }
+        },
+        {
+            "id": "20",
+            "front": {
+                "title": "Scrum Master",
+                "content": "What is the Scrum Master responsible for?"
+            },
+            "back": {
+                "title": "Scrum Team Effectiveness",
+                "content": "SM establishes scrum and teaches and facilitates. Ultimately responsible for the teams effectiveness. Includes Coaching, help team focus on creating high value increments and definition of done, remove impediments, ensure scrum EVENTS take place and productive within timebox\r"
+            }
+        },
+        {
+            "id": "21",
+            "front": {
+                "title": "Scrum Master to PO",
+                "content": "How does the SM service the PO?"
+            },
+            "back": {
+                "title": "PB management, product planning, stakeholder collab",
+                "content": "Find techniques for effective product goal and PB management; Help scrum team understand PBI; establish empirical product planning; help facilitate stakeholder collab (when needed)\r"
+            }
+        },
+        {
+            "id": "22",
+            "front": {
+                "title": "Scrum Master to Org",
+                "content": "How does a Scrum master service the Org?"
+            },
+            "back": {
+                "title": "Champion Scrum adoption, remove barriers",
+                "content": "Lead, train, coach on Scrum adoption; plan, advise Scum implementation; Help employees and stakeholders understand and enact empirical approach; and remove barriers between stakeholders and Scrum Teams\r"
+            }
+        },
+        {
+            "id": "23",
+            "front": {
+                "title": "Scrum Events",
+                "content": "What are the Scrum Events?"
+            },
+            "back": {
+                "title": "There are 5 events in Scrum",
+                "content": "The Sprint (container for all events); Each event is a formal opportunity to INSPECT and ADAPT artifacts. Designed to enable transparency. Failure to operate any events results in lost opportunities to inspect and adapt. \r"
+            }
+        },
+        {
+            "id": "24",
+            "front": {
+                "title": "Scrum Events Purpose",
+                "content": "What are the purpose of Scrum Events?"
+            },
+            "back": {
+                "title": "Create Regularity, Reduce meetings, reduce complexity",
+                "content": "Events are used to create regularity and minimise the need for meetings not defined in Scrum. All events should be held at the same time and place to REDUCE COMPLEXITY\r"
+            }
+        },
+        {
+            "id": "25",
+            "front": {
+                "title": "The Sprint",
+                "content": "What is a Sprint?"
+            },
+            "back": {
+                "title": "Fixed length events, a container for all other events",
+                "content": "One month or less (consistency). New Sprint starts IMMEDIATELY after the previous sprint. All other events to achieve Product Goals happen within a sprint. \r"
+            }
+        },
+        {
+            "id": "26",
+            "front": {
+                "title": "Sprint activities",
+                "content": "Rules of a Sprint"
+            },
+            "back": {
+                "title": "Key points happen during a Sprint",
+                "content": "No changes are made that endangers the SPRINT GOAL; quality does not decrease; Product Backlog is refined; Scope clarified and renegotiated with PO \r"
+            }
+        },
+        {
+            "id": "27",
+            "front": {
+                "title": "Sprint Purpose",
+                "content": "What is sprint duration and what does it enable?"
+            },
+            "back": {
+                "title": "Enable Predictability, reduce risk and costs",
+                "content": "Predictability by ensuring INSPECTION and ADAPTION toward product goal (every calendar month). Too long, the goal may be invalid, rise in complexity, risks may increase. Short sprints to generate more learning cycles, limit risk of cost and effort. Each sprint can be considered a short project\r"
+            }
+        },
+        {
+            "id": "28",
+            "front": {
+                "title": "Ideal Sprint Length",
+                "content": "What is the Ideal Sprint Length"
+            },
+            "back": {
+                "title": "No more than 1 month",
+                "content": "1 - 4 weeks, no more than 4 weeks per sprint. Duration of Sprint must not change during the sprint. Duration can be changed during retro by PO, but should not be done too frequently (consistency)\r"
+            }
+        },
+        {
+            "id": "29",
+            "front": {
+                "title": "Cancelling a Sprint",
+                "content": "When can a Sprint be cancelled and by whom?"
+            },
+            "back": {
+                "title": "Only PO has authority to cancel (not even CEO)",
+                "content": "Cancelled if the sprint goal becomes obsolete. And Only the PO can cancel the sprint\r"
+            }
+        },
+        {
+            "id": "30",
+            "front": {
+                "title": "Sprint Planning",
+                "content": "What is Sprint planning?"
+            },
+            "back": {
+                "title": "Initiates sprint by laying out work performed",
+                "content": "Collaborative plan by the entire scrum team. PO ensures only most important PBI are discussed and how they map to Product Goal. Scrum team may invite others to attend to provide ADVICE (e.g. technical)\r"
+            }
+        },
+        {
+            "id": "31",
+            "front": {
+                "title": "Sprint Planning Topics",
+                "content": "What are the topics in Sprint Planning?"
+            },
+            "back": {
+                "title": "Why, What, How",
+                "content": "Why is this sprint valuable; What can be DONE in this sprint; How will the chosen work get DONE?\r"
+            }
+        },
+        {
+            "id": "32",
+            "front": {
+                "title": "Sprint Value",
+                "content": "Why is this Sprint Valuable? (Sprint Goal)"
+            },
+            "back": {
+                "title": "PO proposes to increase value and utility",
+                "content": "PO proposes how the product could increase its value and utility in the current Sprint. The whole scrum team collaborates to define a SPRINT GOAL that communicates why the Sprint is valuable to stakeholders. It must be finalised prior to the end of the Sprint Planning.\r"
+            }
+        },
+        {
+            "id": "33",
+            "front": {
+                "title": "Definition of Done",
+                "content": "What can be Done this Sprint?"
+            },
+            "back": {
+                "title": "Developers select items in product backlog",
+                "content": "Through discussion with PO, development team selects items from the product backlog to include in current sprint. Scrum team will refine these items during this time; increases understanding and confidence. Use empirical knowledge to know capacity (and consider definition of done) for better forecast\r"
+            }
+        },
+        {
+            "id": "34",
+            "front": {
+                "title": "Increment",
+                "content": "How will the work get done?"
+            },
+            "back": {
+                "title": "For each PBI, plan Increment that meets Def of Done",
+                "content": "Decompose PBI into smaller work items of one day or less. Done by development team who is responsible for turning PBI into increment of value. Sprint Goal, PBI, and plan for delivering them are considered the Sprint Backlog. Timeboxed to eight hours for one month sprint, shorter for shorter sprints\r"
+            }
+        },
+        {
+            "id": "35",
+            "front": {
+                "title": "Daily Scrum",
+                "content": "What is the Daily Scrum?"
+            },
+            "back": {
+                "title": "Inspect and Adapt",
+                "content": "Purpose is the inspect progress towards Sprint goal, and adapt sprint backlog as necessary. 15 minutes for the development team; held at same time and place. If PO / SM actively working on items they attend as development team.\r"
+            }
+        },
+        {
+            "id": "36",
+            "front": {
+                "title": "Purpose of Daily Scrum",
+                "content": "What is the Purpose of the Daily Scrum"
+            },
+            "back": {
+                "title": "Focus on progress toward Sprint Goal",
+                "content": "Development team can use whatever structure for the scrum; however it must focus on progress toward Sprint goal and actionable plan for the next day of work. Creates focus and improves self management. \r"
+            }
+        },
+        {
+            "id": "37",
+            "front": {
+                "title": "Adjustments and Purpose",
+                "content": "How is daily scrum adjusted?"
+            },
+            "back": {
+                "title": "Dev Team can meet throughout the day",
+                "content": "Daily Scrums improve comms, identify impediments, promote quick decision making (reduces need for meetings). Its not the only time developers can adjust their plan. They often meet throughout the day for detailed discussions adapting/replanning the rest of the Sprint's work\r"
+            }
+        },
+        {
+            "id": "38",
+            "front": {
+                "title": "Sprint Review",
+                "content": "What is the Sprint review"
+            },
+            "back": {
+                "title": "Inspect outcomes of sprint and adapt",
+                "content": "Scrum Team presents results and progress toward the product goal is discussed. Review allows for inspection of the outcomes of the sprint and to determine future adaptions.\r"
+            }
+        },
+        {
+            "id": "39",
+            "front": {
+                "title": "Components of Sprint Review",
+                "content": "What are the components of a sprint review?"
+            },
+            "back": {
+                "title": "Review, discuss, adjust backlog",
+                "content": "Review what was accomplished in the sprint and what has changed. Collaborate on what to do next. Product Backlog adjusted (to meet new opportunities). Sprint review is working session and should avoid being a presentation. It is timeboxed to a maximum of four hours for 1 month sprint. Shorter for shorter sprints\r"
+            }
+        },
+        {
+            "id": "40",
+            "front": {
+                "title": "Sprint Retrospective",
+                "content": "What is a Sprint Retrospective?"
+            },
+            "back": {
+                "title": "Plan ways to increase quality and effectiveness",
+                "content": "Scrum Team inspects how last sprint went based on individuals, interactions, tools, and definition of done. Assumptions that led team astray and origin explored. Discuss what went well, problems, and how they were solved. What to try next time (can be added to sprint backlog next sprint). Retro concludes sprint.\r"
+            }
+        },
+        {
+            "id": "41",
+            "front": {
+                "title": "Sprint Retro Timebox",
+                "content": "What is the max amount of time for a Sprint Retrospective?"
+            },
+            "back": {
+                "title": "3 hours for 1 month sprint",
+                "content": "For shorter sprints, the event is usually shorter.\r"
+            }
+        },
+        {
+            "id": "42",
+            "front": {
+                "title": "Scrum Artifacts",
+                "content": "What are scrum artifacts?"
+            },
+            "back": {
+                "title": "Represents work or value",
+                "content": "Artifacts are designed to maximise transparency of key information; everyone inspecting them has the same basis for adaption. Each has commitment to ensure it provides information that enhances transparency and focus against which progress can be measured\r"
+            }
+        },
+        {
+            "id": "43",
+            "front": {
+                "title": "Product Backlog",
+                "content": "What is the product backlog?"
+            },
+            "back": {
+                "title": "Product backlog measures progress of product goal",
+                "content": "Emergent ordered list of what needs to be improved on product. Single source of work by scrum team. \r"
+            }
+        },
+        {
+            "id": "44",
+            "front": {
+                "title": "Product Backlog Refinement",
+                "content": "What is Product Backlog Refinement?"
+            },
+            "back": {
+                "title": "",
+                "content": " \r"
+            }
+        },
+        {
+            "id": "45",
+            "front": {
+                "title": "PBI Sizing",
+                "content": "Who is responsible for PBI Sizing?"
+            },
+            "back": {
+                "title": "Developer working on the item",
+                "content": "PO may influence developers by helping them understand and select trade-offs\r"
+            }
+        },
+        {
+            "id": "46",
+            "front": {
+                "title": "Product Goals",
+                "content": "What is a Product Goal?"
+            },
+            "back": {
+                "title": "Describes future state of the Product",
+                "content": "It serves as a target for the scrum team to plan against. A product goal is in the product backlog. The rest of the product backlog emerges to define what will fulfil this goal. Product Goal is a long-term objective for the SCRUM TEAM.\r"
+            }
+        },
+        {
+            "id": "47",
+            "front": {
+                "title": "Product",
+                "content": "What is a Product?"
+            },
+            "back": {
+                "title": "A vehicle to Deliver Value",
+                "content": "Clear boundaries, known stakeholders, well-defined users/customers. Can be a product, service, or something more abstract\r"
+            }
+        },
+        {
+            "id": "48",
+            "front": {
+                "title": "Sprint Backlog",
+                "content": "What is a Sprint Backlog?"
+            },
+            "back": {
+                "title": "Sprint backlog measures progress of sprint goal",
+                "content": "Comprised of a Sprint Goal (why), the PBI selected for the sprint (what), and actionable plan for delivering the Increment (how). It is a plan by and for development team. Highly visible, real-time picture of work the devs plan to accomplish during the sprint in order to achieve the Sprint Goal\r"
+            }
+        },
+        {
+            "id": "49",
+            "front": {
+                "title": "Sprint Backlog items",
+                "content": "What should be in the Sprint Backlog?"
+            },
+            "back": {
+                "title": "Sprint Goal, PBI, and Increment plan",
+                "content": "The Sprint backlog is updated throughout the sprint as more is learned. It should have enough detail that they can inspect their progress in the Daily Scrum\r"
+            }
+        },
+        {
+            "id": "50",
+            "front": {
+                "title": "Sprint Goals",
+                "content": "What is a Sprint Goal?"
+            },
+            "back": {
+                "title": "Single Objective for the Sprint",
+                "content": "Sprint Goal is a COMMITMENT made by the developers; it provides flexibility in terms of the exact work needed to achieve it. Creates coherence and focus, encouraging Scrum Team to work together.\r"
+            }
+        },
+        {
+            "id": "51",
+            "front": {
+                "title": "Sprint Goal Creation",
+                "content": "When is the Sprint Goal Created?"
+            },
+            "back": {
+                "title": "During Sprint Planning EVENT",
+                "content": "Created during Sprint Planning and added to the Sprint Backlog. As the developers work during the sprint they keep the Sprint Goal in mind. If the work turns out to be different, they collaborate with the Product Owner to nego scope of the Sprint Backlog without impacting Sprint Goal\r"
+            }
+        },
+        {
+            "id": "52",
+            "front": {
+                "title": "Increment",
+                "content": "What is an Increment?"
+            },
+            "back": {
+                "title": "Increment measures progress of definition of done",
+                "content": "A concrete stepping stone TOWARDS the Product Goal. Each Increment is additive to prior increments and thoroughly VERIFIED to ensure they work together. To provide value, each Increment MUST BE USEABLE\r"
+            }
+        },
+        {
+            "id": "53",
+            "front": {
+                "title": "Increment within Sprint",
+                "content": "How many increments in a Sprint?"
+            },
+            "back": {
+                "title": "As many as required",
+                "content": "Multiple Increments can be created. The Sum of the Increments are presented in the Sprint Review. Increment may be delivered to stakeholders PRIOR to end of sprint. Sprint review is not to be considered a GATE to releasing value\r"
+            }
+        },
+        {
+            "id": "54",
+            "front": {
+                "title": "Work is done",
+                "content": "When is work considered part of an Increment?"
+            },
+            "back": {
+                "title": "When it meets definition of done",
+                "content": "Work cannot be considered part of the increment unless it meets the definition of done\r"
+            }
+        },
+        {
+            "id": "55",
+            "front": {
+                "title": "Definition of Done",
+                "content": "What is the Definition of Done?"
+            },
+            "back": {
+                "title": "Formal description of increment that can be released",
+                "content": "An increment can be released when it meets the quality measures required for the product. When a PBI meets a Def of Done, an Increment is created. \r"
+            }
+        },
+        {
+            "id": "56",
+            "front": {
+                "title": "Transparency and Def of Done",
+                "content": "How does Def of Done create Transparency?"
+            },
+            "back": {
+                "title": "Provides everyone understanding of work completed",
+                "content": "It provides everyone a shared understanding of what work was done as part of the Increment. If a PBI does not meet Def of Done, it cannot be released / presented at Sprint Review. It returns to the Product backlog for future consideration\r"
+            }
+        },
+        {
+            "id": "57",
+            "front": {
+                "title": "Multiple Scrum Teams and Def of Done",
+                "content": "How does Definition of Done related to multiple scrum teams working on the same product?"
+            },
+            "back": {
+                "title": "Must mutually define and comply with same Def of Done",
+                "content": "Developers are required to conform to Definition of Done. If there are multiple Scrum Teams working together on a single product; they must mutually define and comply with the same Def of Done\r"
+            }
+        },
+        {
+            "id": "58",
+            "front": {
+                "title": "Def of Done and Standards",
+                "content": "What happens if Def of Done is part of Org standards?"
+            },
+            "back": {
+                "title": "All Scrum Teams must follow it (at a Minimum)",
+                "content": "If def of done for an increment is part of the standards of an organisation, all scrum teams must follow it (as a minimum). If not a standard, Scrum Team must create a Definition of Done appropriate for the product"
+            }
+        }
+    ]
+}
